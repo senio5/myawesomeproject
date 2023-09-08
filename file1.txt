@@ -1,1 +1,2 @@
 This is the first line to my awesome project
+Git is soo easy
